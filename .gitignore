@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+native/*.dll
+native/*.so
+native/*.dylib
+native/*.pending*
+runs/
+results/
+work/
